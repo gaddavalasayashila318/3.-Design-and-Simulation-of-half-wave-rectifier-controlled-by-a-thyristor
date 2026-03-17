@@ -63,4 +63,7 @@ After analysing the simulated output,
 
 ## Simulation
 ## Output
+
+![exper 3 ](https://github.com/user-attachments/assets/18894097-97ca-43d4-a5c2-c0970169e748)
+
 ## Result
